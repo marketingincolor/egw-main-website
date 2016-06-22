@@ -1,0 +1,4 @@
+# Restrict access to script from ALL locations but Formstack
+# order deny allow
+# deny from all
+# allow from evergreenwellness.formstack.com/forms/egw_login
